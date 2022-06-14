@@ -6,7 +6,6 @@ Phone: +48 777 555 232
 E-mail: o.lapchenko@gmail.com
 
 Risk and Compliance Specialist
-My responsibles:
 Responsibilities:
 - Performing identity verification documents check, and research on a range of customer types with different structures in all jurisdictions
 - Reviewing publicly available sources for information pertaining to customer due diligence
